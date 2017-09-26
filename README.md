@@ -15,7 +15,7 @@ data.zip contains two files. 1) profile_data.txt and 2) adj_list.txt
 profile_data
 --------------
 
-profile_data.txt: each row represents profile attributes of a blogger. Attributes are separated by '|'
+profile_data.txt: each row represents profile attributes of a blogger. Attributes are separated by '|'. Missing values are represented by nan.
 
 Example row: 26810|MrORobert|Public|1996-03-13|Male|nan|In A Relationship|2014-10-22|nan|nan|68|4|0|4|0|2|0|1|170|791 days ago
 
