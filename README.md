@@ -75,7 +75,7 @@ Project Ideas
 
 What cool things can be done with this dataset! Here are some pointers.
 
-* Can you identify most influential or important bloggers in the network? How do you measure the influence or importance?
+* Can you identify most influential or important bloggers in the network? How do you measure this influence or importance?
 
 * Can you recommend some interesting bloggers whom a blogger can follow and send friend request? 
 
