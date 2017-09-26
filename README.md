@@ -79,7 +79,7 @@ What cool things can be done with this dataset! Here are some pointers.
 
 * Can you recommend some interesting bloggers whom a blogger can follow and send friend requests? 
 
-* Is there any gender difference? Can you predict a blogger's gender from contribution? (Example gender differences in wikipedia editing http://people.ischool.berkeley.edu/~coye/Pubs/Articles/GenderWikiSym2011.pdf)
+* Is there any gender difference? Can you predict a blogger's gender from contribution? (Example: gender differences in wikipedia editing http://people.ischool.berkeley.edu/~coye/Pubs/Articles/GenderWikiSym2011.pdf)
 
 * Can you predict blogger churn or retention in the community?
 
