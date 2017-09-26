@@ -18,45 +18,46 @@ Example row: 26810|MrORobert|Public|1996-03-13|Male|nan|In A Relationship|2014-1
 
 Profile attributes are described below:
 
-Serial: serial number of the blogger starting from 1  
+* Serial: serial number of the blogger starting from 1  
 
-Name:	blogger name 
+* Name:	blogger name 
 
-Visibility:	whether the profile is public/private or 	
+* Visibility:	whether the profile is public/private or 	
 
-Birthday: date of birth	
+* Birthday: date of birth	
 
-Gender:	gender of the blogger	
+* Gender:	gender of the blogger	
 
-Location: blogger location		
+* Location: blogger location		
 
-Status: married/single etc.
+* Status: married/single etc.
 
-Joined: when the blogger joined	
+* Joined: when the blogger joined	
 
-Job: job of the blogger		
+* Job: job of the blogger		
 
-Language: language of the blogger	
+* Language: language of the blogger	
 
-BlogTraffic: total profile hits   
+* BlogTraffic: total profile hits   
 
-Posts: number of posts written by the blogger	
+* Posts: number of posts written by the blogger	
 
-MyComments: number of comments posted by the blogger to other blog posts	
+* MyComments: number of comments posted by the blogger to other blog posts	
 
-UserComments: number of others bloggers' comments the blogger received 
+* UserComments: number of others bloggers' comments the blogger received 
 
-Photos: number of photos uploaded by the blogger	
+* Photos: number of photos uploaded by the blogger	
 
-Friends: number of friends of the blogger	
+* Friends: number of friends of the blogger	
 
-Following: number of bloggers the blogger is following
+* Following: number of bloggers the blogger is following
 
-Followers: number of followers of the blogger	 			
+* Followers: number of followers of the blogger	 			
 
-Points: number of points the blogger earned from the platform e.g., posting blogs, comments, daily login 	
+* Points: number of points the blogger earned from the platform e.g., posting blogs, comments, daily login 	
 
-LastOnline: when (e.g., days/hours ago) the blogger was last seen online 
+* LastOnline: when (e.g., days/hours ago) the blogger was last seen online 
+
 
 2) adj_list.txt: each row represents friendship network of a blogger, they are separated by '|'   
 
