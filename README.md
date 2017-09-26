@@ -12,7 +12,10 @@ https://github.com/sonobi-ucf-hackathon/social_blog_dataset/raw/master/data.zip
 
 data.zip contains two files. 1) profile_data.txt and 2) adj_list.txt
 
-1) profile_data.txt: each row represents profile attributes of a blogger. Attributes are separated by '|'
+profile_data
+--------------
+
+profile_data.txt: each row represents profile attributes of a blogger. Attributes are separated by '|'
 
 Example row: 26810|MrORobert|Public|1996-03-13|Male|nan|In A Relationship|2014-10-22|nan|nan|68|4|0|4|0|2|0|1|170|791 days ago
 
@@ -59,6 +62,8 @@ Profile attributes are described below:
 * LastOnline: when (e.g., days/hours ago) the blogger was last seen online 
 
 
+adj_list
+----------
 2) adj_list.txt: each row represents friendship network of a blogger, they are separated by '|'   
 
 Example row:  theatre22|artulovehandmade|bigbighead|chieftaz|Destiny70|FIRESBREATH|katskorner|kazimamun|mamakat|nathanbrydn|rusty-armor
