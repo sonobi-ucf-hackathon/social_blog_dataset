@@ -77,7 +77,7 @@ What cool things can be done with this dataset! Here are some pointers.
 
 * Can you identify most influential or important bloggers in the network? How do you measure this influence or importance?
 
-* Can you recommend some interesting bloggers whom a blogger can follow and send friend request? 
+* Can you recommend some interesting bloggers whom a blogger can follow and send friend requests? 
 
 * Is there any gender difference? Can you predict a blogger's gender from contribution? (Example gender differences in wikipedia editing http://people.ischool.berkeley.edu/~coye/Pubs/Articles/GenderWikiSym2011.pdf)
 
