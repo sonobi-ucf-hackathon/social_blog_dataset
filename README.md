@@ -25,7 +25,7 @@ Profile attributes are described below:
 
 * Name:	blogger name 
 
-* Visibility:	whether the profile is public/private or 	
+* Visibility:	whether the profile is visible to public, private or community
 
 * Birthday: date of birth	
 
