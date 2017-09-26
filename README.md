@@ -18,25 +18,44 @@ Example row: 26810|MrORobert|Public|1996-03-13|Male|nan|In A Relationship|2014-1
 
 Profile attributes are described below:
 
-Serial: serial number of the blogger starting from 1  	
+Serial: serial number of the blogger starting from 1  
+
 Name:	blogger name 
+
 Visibility:	whether the profile is public/private or 	
-Birthday: date of birth		
+
+Birthday: date of birth	
+
 Gender:	gender of the blogger	
+
 Location: blogger location		
+
 Status: married/single etc.
+
 Joined: when the blogger joined	
+
 Job: job of the blogger		
-Language: language of the blogger		
+
+Language: language of the blogger	
+
 BlogTraffic: total profile hits   
+
 Posts: number of posts written by the blogger	
+
 MyComments: number of comments posted by the blogger to other blog posts	
+
 UserComments: number of others bloggers' comments the blogger received 
+
 Photos: number of photos uploaded by the blogger	
+
 Friends: number of friends of the blogger	
+
 Following: number of bloggers the blogger is following
+
 Followers: number of followers of the blogger	 			
-Points: number of points the blogger earned from the platform e.g., posting blogs, comments, daily login 		
+
+Points: number of points the blogger earned from the platform e.g., posting blogs, comments, daily login 	
+
 LastOnline: when (e.g., days/hours ago) the blogger was last seen online 
 
 2) adj_list.txt: each row represents friendship network of a blogger, they are separated by '|'   
@@ -51,9 +70,13 @@ Project Ideas
 What cool things can be done with this dataset! Here are some pointers.
 
 * Can you identify most influential or important bloggers in the network? How do you measure the influence or importance?
+
 * Can you recommend some interesting bloggers whom a blogger can follow and send friend request? 
+
 * Is there any gender difference? Can you predict a blogger's gender from contribution? (Example gender differences in wikipedia editing http://people.ischool.berkeley.edu/~coye/Pubs/Articles/GenderWikiSym2011.pdf)
+
 * Can you predict blogger churn or retention in the community?
+
 * Do you think single bloggers are more active in the platform? 
 
 
