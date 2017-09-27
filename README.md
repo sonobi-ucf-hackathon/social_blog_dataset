@@ -64,7 +64,7 @@ Profile attributes are described below:
 
 adj_list
 ----------
-adj_list.txt: each row represents friendship network of a blogger, they are separated by '|'   
+adj_list.txt: each row represents friendship network of a blogger; bloggers are separated by '|'   
 
 Example row:  theatre22|artulovehandmade|bigbighead|chieftaz|Destiny70|FIRESBREATH|katskorner|kazimamun|mamakat|nathanbrydn|rusty-armor
 
